@@ -10,6 +10,11 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    int i = 0;
+    int j = 2;
+    int z =0;
+    
+    z = i + j;
+    printf("Hello, World!\n %d",z);
     return 0;
 }
